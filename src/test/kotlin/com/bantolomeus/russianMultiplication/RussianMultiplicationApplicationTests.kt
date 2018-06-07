@@ -1,4 +1,4 @@
-package com.bantolomeus.russian_multiplication
+package com.bantolomeus.russianMultiplication
 
 import org.junit.Test
 import org.junit.runner.RunWith
